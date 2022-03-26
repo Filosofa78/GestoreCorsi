@@ -1,4 +1,4 @@
--- --------------------------------------------------------
+-- ---------iscritticorsicorso-----------------------------------------------
 -- Host:                         127.0.0.1
 -- Versione server:              5.5.30 - MySQL Community Server (GPL)
 -- S.O. server:                  Win64
